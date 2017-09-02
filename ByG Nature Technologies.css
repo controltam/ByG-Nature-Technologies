@@ -1,0 +1,21 @@
+body {
+    background-color: #20b2aa
+}
+
+h1 {
+    color: darkred;
+    font-family: Verdana;
+    font-size: 300%;
+    padding: 50px;
+    text-align: right
+}
+
+h3 {
+    color: blue;
+    font-family: Verdana;
+    font-size: 100%;
+}
+
+#p01 {
+    color: green;
+}
